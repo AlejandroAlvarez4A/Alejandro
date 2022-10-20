@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Bolivia 🇧🇴</h3>
 <img align="right" alt="Coding" width="200" src="https://imgs.search.brave.com/KV5Tgvqqlzn2cOxcZj8U7xmr7mpWdoZEPG-ymOWJfP4/rs:fit:200:187:1/g:ce/aHR0cHM6Ly9pLmdp/ZmVyLmNvbS9vcmln/aW4vYzYvYzZhZmFi/MjUxYTIwZTZkMGVi/ODBiOTgzNDUwYmM2/NmVfdzIwMC5naWY.gif">
 
-- 👨‍💻 All of my projects are available at [coming soon :)](coming soon :))
+- 👨‍💻 All of my projects are available at [ coming soon :) ]
 
 - 💬 Ask me about **HTML, CSS, JS, React, Redux, React Native**
 
