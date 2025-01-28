@@ -8,5 +8,3 @@
 - 📈 Exploring cutting-edge **DeFi projects**.
 
 - 💬 Ask me about ** Typescript, React, Solana, Blockchain**
-
-- 📫 Reach me at **a.alejandro.alvarez.a@gmail.com**
